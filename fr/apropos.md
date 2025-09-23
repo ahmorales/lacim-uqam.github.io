@@ -60,3 +60,4 @@ Les directeurs du LACIM furent
 - Srecko Brlek (2014-2016)
 - Christophe Hohlweg (2016-2023)
 - Franco Saliola (2022-2024)
+- Alejandro Morales (2025-)
